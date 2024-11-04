@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1730737565 source:c:\users\admin\desktop\it002\lab3\b3\main.cpp
+	"ThoiGian.h"
+	<bits/stdc++.h>
+
+1730738711 c:\users\admin\desktop\it002\lab3\b3\thoigian.h
+	<bits/stdc++.h>
+
+1730736624 source:c:\users\admin\desktop\it002\lab3\b3\thoigian.cpp
+	"ThoiGian.h"
+	<bits/stdc++.h>
+

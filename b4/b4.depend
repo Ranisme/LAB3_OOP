@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1730739776 source:c:\users\admin\desktop\it002\lab3\b4\main.cpp
+	"Day.h"
+	<bits/stdc++.h>
+
+1730738807 c:\users\admin\desktop\it002\lab3\b4\day.h
+	<bits/stdc++.h>
+
+1730739922 source:c:\users\admin\desktop\it002\lab3\b4\day.cpp
+	"Day.h"
+	<bits/stdc++.h>
+
